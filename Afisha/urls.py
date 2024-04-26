@@ -28,5 +28,4 @@ urlpatterns = [
     path('api/v1/movies/reviews/',views.movie_reviews),
     path('api/v1/directors/count/',views.director_list_with_movies_count),
 
-
 ]
